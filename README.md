@@ -55,6 +55,3 @@ The evaluation metric for this competition is the Mean F1-Score, which balances 
 
 This project aims to address the challenge of classifying geographical features using machine learning techniques. By analyzing the dataset, performing feature engineering, and testing various models, we aim to build a robust classification model capable of accurately predicting land use changes.
 
----
-
-Feel free to customize this README file as needed and add any additional information you find relevant to your project!
