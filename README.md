@@ -32,7 +32,6 @@ The dataset consists of the following files:
 
 - `train.geojson`: Training set
 - `test.geojson`: Test set
-- `skelton_code.py`: Starter code
 
 The columns in the dataset include dates, polygon statuses, neighborhood urban and geographic types, and the target label to be classified.
 
