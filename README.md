@@ -1,7 +1,3 @@
-Sure, here's a README file you can include in your repository:
-
----
-
 # EMOBOT IA Challenge
 
 ## Introduction
