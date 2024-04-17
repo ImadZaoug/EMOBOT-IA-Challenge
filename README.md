@@ -50,8 +50,7 @@ The evaluation metric for this competition is the Mean F1-Score, which balances 
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Ensure you have the necessary dependencies installed (see requirements.txt).
-3. Run the Jupyter Notebook (`ml-challenge-stage-emobot-zaoug-imad.ipynb`) to execute the project code.
+2. Run the Jupyter Notebook (`ml-challenge-stage-emobot-zaoug-imad.ipynb`) to execute the project code.
 
 ## Conclusion
 
